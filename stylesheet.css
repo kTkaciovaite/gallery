@@ -1,0 +1,55 @@
+#container {
+    width: 900px;
+    margin: 0 auto 50px;
+}
+
+#logo {
+    width: 300px;
+    height: 146px;
+    background: url('images/logo.png') top left no-repeat;
+    background-size: 100%;
+    margin: 50px auto 0;
+    text-indent: -9999px;
+}
+
+h2 {
+    display: inline-block;
+    width: 251px;
+    margin: 50px 0 40px;
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+    font-weight: normal;
+}
+
+.line {
+    display: inline-block;
+    width: 320px;
+    height: 7px;
+    border-top: solid 1px #b5b5b5;
+}
+
+.column2 {
+    margin: 0 37px 0;
+}
+
+img {
+    width: 250px;
+    padding: 10px;
+    border: solid 1px #cbcbcb;
+}
+
+p {
+    display: inline-block;
+    margin: 5px 0 20px;;
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+    font-size: 14pt;
+}
+
+.sideColumn {
+    width: 270px;
+}
+
+.centerColumn {
+    width: 351px;
+}
